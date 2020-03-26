@@ -1,7 +1,7 @@
 # Личный проект «YetiCave»
 
 * Студент: [Анна Лобко](https://up.htmlacademy.ru/php/12/user/880461).
-* Наставник: `Неизвестно`.
+* Наставник: [Кирилл Игуменов](https://htmlacademy.ru/profile/id47818).
 
 ---
 
